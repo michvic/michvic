@@ -22,7 +22,7 @@ I love to work with React and React Native, but I also work on back-end with nod
 
 ## About me
 
-- 🌱 Divided into web developer and machine learning engineer
+- 🌱 Divided between web developer and machine learning engineer
 - 📫 How to reach me: **michelvictor.doc@gmail.com**
 
 ### Professional experience
