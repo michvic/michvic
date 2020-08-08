@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img width="300" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="octocat">
 </p>
@@ -27,16 +25,17 @@ I love to work with React and React Native, but I also work on back-end with nod
 - 🌱 Divided into web developer and machine learning engineer
 - 📫 How to reach me: **michelvictor.doc@gmail.com**
 
+### Professional experience
+
+- Centro de Tecnologia da Informação e Comunicação - CTIC Unifesspa.
+- Laboratório de Computação Científica - LCC Unifesspa.
+
 
 ## GitHub stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=michvic&show_icons=true" alt="michel github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michvic&layout=compact" alt="michel top languages" height=200/> |
 |---|---|
    
-## Professional experience
-
-- Centro de Tecnologia da Informação e Comunicação - CTIC Unifesspa
-
 ## Skills check
 
 See what I got bellow
