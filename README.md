@@ -52,8 +52,7 @@ See what I got bellow
 <details open>
   <summary>Langs</summary>
   <ol>
-    <li>JavaScript</li>
-    <li>TypeScript</li>
+    <li>Nodejs</li>
     <li>Python</li>
     <li>PHP</li>
   </ol>
