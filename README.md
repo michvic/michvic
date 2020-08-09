@@ -9,8 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/michtvick)](https://www.linkedin.com/in/michtvick/)
 [![Gmail Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:michelvicto.doc@gmail.com)](mailto:michelvicto.doc@gmail.com)
 
-I am a web developer. 
-I love to learn things.
+I am a web developer and I love to learn things.
 
 <p align='center'>
   <a href="#about-me">About me</a>
