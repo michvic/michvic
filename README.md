@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:michelvicto.doc@gmail.com)](mailto:michelvicto.doc@gmail.com)
 
 I am a web developer. 
-I love to work with React and React Native, but I also work on back-end with node and express.
+I love to learn things.
 
 <p align='center'>
   <a href="#about-me">About me</a>
