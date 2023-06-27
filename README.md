@@ -21,7 +21,8 @@ I am a web developer and I love to learn things.
 
 ## About me
 
-- 🌱 Divided between web developer and machine learning engineer
+- 🌱 Software enginer 
+- 🤖 hobbies: machine learning & DevOps
 - 📫 How to reach me: **michelvictor.doc@gmail.com**
 
 ### Professional experience
@@ -39,18 +40,13 @@ I am a web developer and I love to learn things.
 
 See what I got bellow
 
-### I want to learn
-
-- [ ] Adonis.js
-- [ ] Docker 
-- [ ] Natural language processing - NPL
-
 ### What do I actually know?
 
 <details open>
   <summary>Langs</summary>
   <ol>
-    <li>Nodejs</li>
+    <li>Javascript & Typescript</li>
+    <li>C#</li>
     <li>Python</li>
     <li>PHP</li>
   </ol>
@@ -59,22 +55,11 @@ See what I got bellow
 <details>
   <summary>Frameworks</summary>
   <ol>
-    <li>React.js</li>
-    <li>Vue.js</li>
+    <li>Reactjs & Nextjs</li>
+    <li>EF & .Net Core</li>
     <li>express</li>
     <li>Keras.io</li>
-    <li>Pandas</li>
   </ol>
 </details>
 
-### What I know, but still have to study more
-
-<details open>
-  <summary>Services</summary>
-  <ol>
-    <li>AWS</li>
-    <li>tensorflow</li>
-    <li>webSoket</li>
-  </ol>
-</details>
 
