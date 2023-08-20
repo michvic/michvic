@@ -29,6 +29,8 @@ I am a web developer and I love to learn things.
 
 - Centro de Tecnologia da Informação e Comunicação - CTIC Unifesspa.
 - Laboratório de Computação Científica - LCC Unifesspa.
+- DEV II - TMOV
+- DEV III - COGNA
 
 
 ## GitHub stats
@@ -48,7 +50,6 @@ See what I got bellow
     <li>Javascript & Typescript</li>
     <li>C#</li>
     <li>Python</li>
-    <li>PHP</li>
   </ol>
 </details>
 
