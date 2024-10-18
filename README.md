@@ -23,7 +23,6 @@ I am a web developer and I love to learn things.
 
 - 🌱 Software enginer 
 - 🤖 hobbies: machine learning & DevOps
-- 📫 How to reach me: **michelvictor.doc@gmail.com**
 
 ### Professional experience
 
